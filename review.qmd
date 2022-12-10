@@ -15,19 +15,19 @@ Opioids are a class of drugs used to treat pain by activating opioid receptors i
 
 ## What is opioid use disorder? [@OpioidUseDisorder2022]
 
-Opioid use disorder is characterized by compulsive use of opioid drugs that continues after a person wants to stop. It is characterized by cravings to opioids, risky use such as sharing needles, and withdrawal when they are not taken.
+Opioid use disorder is characterized by compulsive use of opioid drugs that continues after a person wants to stop. It is characterized by cravings for opioids, risky use such as sharing needles, and withdrawal when they are not taken.
 
 ## Overview of the opioid epidemic [@cerda2021]
 
-The opioid epidemic is a public health phenomenon in which the rates of opioid overdose death increased ninefold between 1999 and 2018.
+The opioid epidemic is a public health phenomenon in which the rates of opioid overdose deaths increased ninefold between 1999 and 2018.
 
 ### Phase 1: Prescription use in urban white populations [@cerda2021]
 
-When the epidemic was first observed no particular racial trends were apparent. With time, the trend grew in white populations in urban regions with well developed supply chains. Evidence suggests black patients are less likely to receive opioids for similar conditions and pain levels than white patients, which is consider a possible explanation for this trend. Some increase in use was also noted in US Native populations. 
+When the epidemic was first observed no particular racial trends were apparent. With time, the trend grew in white populations in urban regions with well developed supply chains. Evidence suggests black patients are less likely to receive opioids for similar conditions and pain levels than white patients, which is considered a possible explanation for this trend. Some increase in use was also noted in US Native populations. 
 
 ### Phase 2: Illegal heroin, fentanyl, and demographic generalization. [@cerda2021]
 
-In the 2010s the trend extended other demographics. State interventions aimed at decreasing prescription of opioids coincide with an increase in the use of illegal heroin, with some theorizing the regulations drove users to the underground market - evidence suggests a significant amount of illegal heroin users used prescription opioids first. The west coast illegal markets were largely based on "black tar" heroin from Mexico, whereas the east coast supply revolved around Columbian heroin. The east cost product was highly pure and less expensive, driving down the cost of the drug in general. In 2013 the illegal market saw the emergence of fentanyl, a drug that is easier to produce and 30-40 times stronger than heroin. This was especially true on the east coast and a surge of fentanyl-related deaths followed.
+In the 2010s the trend extended to other demographics. State interventions aimed at decreasing prescription of opioids coincide with an increase in the use of illegal heroin, with some theorizing the regulations drove users to the underground market - evidence suggests a significant amount of illegal heroin users used prescription opioids first. The west coast illegal markets were largely based on "black tar" heroin from Mexico, whereas the east coast supply revolved around Columbian heroin. The east coast product was highly pure and less expensive, driving down the cost of the drug in general. In 2013 the illegal market saw the emergence of fentanyl, a drug that is easier to produce and 30-40 times stronger than heroin. This was especially true on the east coast and a surge of fentanyl-related deaths followed.
 
 ### Geographic shifts [@cerda2021]
 
@@ -39,7 +39,7 @@ Some of the trends observed in the epidemic are consistent with basic economic t
 
 ### Supply [@cerda2021]
 
-In the 1990s, medical associations urged physicians to prioritize pain control in an effort to reduce chronic pain. Around the same time Purdue Pharmaceuticals released OxyContin, and extended release version of oxycodone. The company funded campaigns promoting the use of opioids, and the industry as a whole spent tends millions of dollars promoting their use to physicians.
+In the 1990s, medical associations urged physicians to prioritize pain control in an effort to reduce chronic pain. Around the same time Purdue Pharmaceuticals released OxyContin, an extended release version of oxycodone. The company funded campaigns promoting the use of opioids, and the industry as a whole spent tens of millions of dollars promoting their use to physicians.
 
 ### Demand [@cerda2021]
 
@@ -55,7 +55,7 @@ Numerous laws have targeted legal and illegal opioid use [@cerda2021].
 
 ### Supply-side [@cerda2021]
 
-Some laws target the prescribing of opioids. There is not currently a large body of evidence on these laws. Short-term evidence does not indicate an effect on misuse, and there is some evidence restrictions on prescribing increases demand in the illegal market. There is evidence programs that monitor prescribing closely decrease deaths from prescription drugs but are also associated with an increase with deaths from illegal opioids. As the epidemic evolved, providers became more aware and guidelines may have decreased prescribing overall.
+Some laws target the prescribing of opioids. There is not currently a large body of evidence on these laws. Short-term evidence does not indicate an effect on misuse, and there is some evidence restrictions on prescribing increases demand in the illegal market. There is evidence programs that monitor prescribing closely decrease deaths from prescription drugs but are also associated with an increase in deaths from illegal opioids. As the epidemic evolved, providers became more aware and guidelines may have decreased prescribing overall.
 
 #### Criminalization [@cerda2021]
 
@@ -75,7 +75,7 @@ Naloxone (Narcan) is a drug that counteracts the respiratory effects of an overd
 
 ##### Safer use practices [@cerda2021]
 
-Safer-use measures may take the form of needle exchanges or safe-use facilities where drugs are taken in a controlled environment. Safe use measures are associated with a decrease in deaths in other countries (non-US). There are currently campaigns to attempt these measures in New York and Philadelphia, though "NIMBYism" ("Not In My Back Yard"-ism)is a possible barrier. Fentanyl detection strips allow users to asses if they have a product contaminated by stronger drugs. Evidence suggests the strips decrease use somewhat but individuals do not appear willing to dispose of the product overall.
+Safer-use measures may take the form of needle exchanges or safe-use facilities where drugs are taken in a controlled environment. Safe use measures are associated with a decrease in deaths in other countries (non-US). There are currently campaigns to attempt these measures in New York and Philadelphia, though "NIMBYism" ("Not In My Back Yard"-ism)i is a possible barrier. Fentanyl detection strips allow users to asses if they have a product contaminated by stronger drugs. Evidence suggests the strips decrease use somewhat but individuals do not appear willing to dispose of the product overall.
 
 ### Demand-side [@cerda2021]
 
